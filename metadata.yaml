@@ -1,0 +1,30 @@
+_repo: The-Botanic-Garden--13-A-Poem-in-Two-Parts.-Part-1--the-Economy-of-Vegetation_9612
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darwin, Erasmus
+    birthdate: 1731
+    deathdate: 1802
+    gutenberg_agent_id: '3099'
+    url: http://www.gutenberg.org/2009/agents/3099
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus_Darwin
+description: Bound with an unidentified edition of the first part.
+gutenberg_bookshelf:
+- Botany
+- Horticulture
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portland Vase'
+- !lcsh 'Plants -- Poetry'
+- !lcsh 'Natural history'
+- !lcc 'PR'
+- GITenberg
+title: "The Botanic Garden\r\nA Poem in Two Parts. Part 1: the Economy of Vegetation"
+url: http://www.gutenberg.org/ebooks/9612
